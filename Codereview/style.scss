@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid black 1px;
+    padding: 2%;
+}
+.recipes li {
+    list-style-type: none;
+}
+
+.logo {
+    width:15%;
+    float: left;
+}
